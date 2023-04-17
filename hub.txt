@@ -1,0 +1,5 @@
+hub RP-11_cenY
+shortLabel RP-11_cenY
+longLabel cenY of RP-11
+genomesFile genomes.txt
+email  fedorrik1@gmail.com
